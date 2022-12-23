@@ -2,7 +2,7 @@
 - 👀 I’m skilled in Python, Google Cloud.
 - 🌱 I’m currently learning on Google Cloud 
  💞️ 
-- 📫 Email me @thunder.webdevelopers@gmail.com
+- 📫 Email me @prasannaparida.dev@gmail.com
 
 <!---
 T-Gojo/T-Gojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
